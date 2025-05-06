@@ -1,6 +1,6 @@
 a = int(input("First number: "))
 b = int(input("Second number: "))
 
-c=a+b
+c=print("Addition of two numbers is =",a+b)
 
 print(c)
